@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hinowlan.github.io/sitemap
+Sitemap: https://hinowlan.github.io/app/sitemap
+Sitemap: https://hinowlan.github.io/assets/sitemap
+Sitemap: https://hinowlan.github.io/css/sitemap
+Sitemap: https://hinowlan.github.io/includes/sitemap
+Sitemap: https://hinowlan.github.io/item/sitemap
+Sitemap: https://hinowlan.github.io/src/sitemap
